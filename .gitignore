@@ -15,3 +15,8 @@ MiCRM_Final_Dataset/community_index_v10.csv
 MiCRM_Final_Dataset/monoculture_dataset_v10.csv
 MiCRM_Final_Dataset/community_dataset_v10.csv
 Previous Results/
+XGBoost_Distribution/xgb_dist_test.ipynb
+myenv/
+XGBoost_Distribution/xgbdist_intervals.png
+XGBoost_Distribution/xgbdist_per_sample.png
+
