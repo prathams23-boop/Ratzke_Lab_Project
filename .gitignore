@@ -19,9 +19,9 @@ XGBoost_Distribution/xgb_dist_test.ipynb
 myenv/
 XGBoost_Distribution/xgbdist_intervals.png
 XGBoost_Distribution/xgbdist_per_sample.png
-Final_Dataset/community_dataset_final
-Final_Dataset/monoculture_dataset_final
-Final_Dataset/community_index_final
+Final_Dataset/community_dataset_final.csv
+Final_Dataset/monoculture_dataset_final.csv
+Final_Dataset/community_index_final.csv
 CatBoost_Distribution/
 LightGBM_Distribution/
 XGBoost_Distribution/xgb03_v3_groupkfold.csv
