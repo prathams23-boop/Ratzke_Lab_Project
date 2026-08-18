@@ -1,0 +1,23 @@
+{
+  "model": "mlp",
+  "version": 3,
+  "version_label": "Pure nutrients only (no species, no size)",
+  "n_features": 40,
+  "n_params": 52609,
+  "best_epoch": 12,
+  "params": {
+    "hidden": "(256, 128, 64)",
+    "dropout": "0.15",
+    "lr": "0.001",
+    "weight_decay": "0.0001",
+    "batch_size": "512"
+  },
+  "r2_interpolation": 0.6957959620979808,
+  "mae_interpolation": 0.13300928761031844,
+  "rmse_interpolation": 0.18332466164311034,
+  "r2_heldout_broth": 0.4421121305939141,
+  "mae_heldout_broth": 0.18805629334122315,
+  "rmse_heldout_broth": 0.24856971602973563,
+  "gss_r2_mean": 0.43843794754955506,
+  "gss_r2_std": 0.12498517568025443
+}
