@@ -26,4 +26,5 @@ XGBoost_Distribution/xgb03_v3_groupkfold.csv
 XGBoost_Distribution/xgb03_v3_groupshufflesplit.csv
 XGBoost_Distribution/xgb03_v3_oof_heldout_broth.csv
 XGBoost_Distribution/xgb_dist_v3.html
+BOTorch/train_xgbd_ensembles_output/
 

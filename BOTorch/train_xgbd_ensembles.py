@@ -11,9 +11,9 @@ Outputs, written next to the V3 bundle:
     <prefix>_bundle.json
 
 Usage
------
-    python3 xgb_ensemble_test.py --data community_index_final.csv \
-        --bundle xgbd03_v3_bundle.json --members 10
+
+    python3 train_xgbd_ensembles.py --data community_index_final.csv \
+        --bundle xgbd03_v3_bundle.json --members 100
 """
 
 import argparse
